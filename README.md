@@ -1,4 +1,4 @@
-# real_estate_app
+# Real estate app
 
 The real estate application built with flutter
 
