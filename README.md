@@ -2,6 +2,8 @@
 
 The real estate application built with flutter
 
+![image](https://raw.githubusercontent.com/flutter-ninja/real-estate-app/master/assets/images/thumb-nail.png)
+
 ## The video guid
 
 - [Watch on youtube](https://www.youtube.com/watch?v=AGTqJ6sUXbk)
